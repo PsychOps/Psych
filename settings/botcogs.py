@@ -1,0 +1,1 @@
+extensions = ['jishaku', 'cogs.utility']
